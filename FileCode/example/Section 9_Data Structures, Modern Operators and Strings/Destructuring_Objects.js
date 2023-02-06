@@ -10,7 +10,7 @@ const restaurant = {
             open: 12,
             close: 22,
         },
-        fri: {
+        fri: {  
             open: 11,
             close: 23,
         },
